@@ -45,10 +45,8 @@
 					<td><label for="gender">金额来源:</label></td>
 					<td><input id="gender" class="easyui-combobox" name="gender"  data-options="editable:false"/>
 						</td>
-					
 				</table>
 		</select>
-				
 				<input type="hidden" name="operation" value="2" />
 				<input type="hidden" name="token" value="${token}" />
 	    </form>
