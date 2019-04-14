@@ -26,9 +26,7 @@
 					<td><input id="gender" class="easyui-combobox" name="gender"  data-options="editable:false"/>
 						</td>
 				</table>
-				
- 
-												</select>
+			</select>
 				<input type="hidden" name="operation" value="2" />
 				<input type="hidden" name="token" value="${token}" />
 			</form>
