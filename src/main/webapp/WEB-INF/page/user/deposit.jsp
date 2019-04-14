@@ -47,7 +47,7 @@
 						</td>
 				</table>
 		</select>
-				<input type="hidden" name="operation" value="2" />
+				<input type="hidden" name="operation" value="1" />
 				<input type="hidden" name="token" value="${token}" />
 	    </form>
 	    <div style="text-align: center; padding: 5px; margin: 5px;">
