@@ -47,9 +47,7 @@
 						</td>
 					
 				</table>
-				
- 
-												</select>
+		</select>
 				
 				<input type="hidden" name="operation" value="2" />
 				<input type="hidden" name="token" value="${token}" />
