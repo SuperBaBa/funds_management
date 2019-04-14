@@ -1,0 +1,20 @@
+﻿/*=======================================
+    GENERAL STYLES
+==================================================*/
+body {
+    font-family: 'Nova Flat', cursive;
+    background-color: #FFF;
+color: ;
+}
+.pad-top {
+    padding-top:20px;
+}
+.text-center {
+    text-align:center;
+}
+#error-link {
+    font-size:150px;
+    padding:10px;
+}
+
+
