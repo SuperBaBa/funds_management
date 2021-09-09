@@ -1,7 +1,5 @@
 package com.jcq.util;
 
-import org.junit.Test;
-
 public class GenerateAccountNumber {
 	// 随机生成一个19位的账号
 	public static String getAccountNumber() {
@@ -17,10 +15,5 @@ public class GenerateAccountNumber {
 	private static String doubleToString(Double d) {
 		Integer param=d.intValue();
 		return param.toString();
-	}
-	@Test
-	public void test() {
-		System.out.println(Math.random()*10);
-		System.out.println(getAccountNumber().length());
 	}
 }

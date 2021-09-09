@@ -7,6 +7,10 @@
 #maven file
 target/
 
+#eclipse
+.classpath
+.project
+
 #idea
 .idea/
 /.idea/
